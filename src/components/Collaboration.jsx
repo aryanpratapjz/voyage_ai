@@ -1,4 +1,4 @@
-import { brainwaveSymbol, check } from "../assets";
+import { brainwave, check } from "../assets";
 import { collabApps, collabContent, collabText } from "../constants";
 import Button from "./Button";
 import Section from "./Section";
@@ -40,10 +40,12 @@ const Collaboration = () => {
               <div className="w-[6rem] aspect-square m-auto p-[0.2rem] bg-conic-gradient rounded-full">
                 <div className="flex items-center justify-center w-full h-full bg-n-8 rounded-full">
                   <img
-                    src={brainwaveSymbol}
-                    width={48}
+                    src={brainwave}
+                    className="ml-4"
+                    width={68}
                     height={48}
                     alt="brainwave"
+
                   />
                 </div>
               </div>
