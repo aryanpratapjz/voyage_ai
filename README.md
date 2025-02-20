@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-    <a  target="_blank">
-      <img src="../assets/voyageaiss.png" alt="Project Banner">
+    <a target="_blank">
+       <img src="../assets/voyageaiss.png" alt="Project Banner">
        <img src="../assets/voyageaiss2.png" alt="Project Banner">
     </a>
   <br />
